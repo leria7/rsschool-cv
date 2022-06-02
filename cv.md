@@ -1,22 +1,28 @@
-##ELINA VALERIA
+## ELINA VALERIA
+### Contacts
+- **Location: Russia, Moscow**
+- **Phone number: +7(996)-308-76-26**
+- **Email: elina.valeria96@yandex.ru**
+- **GitHub: @leria7**
 
-####Contacts
-- **Phone number +7(996)-308-76-26**
-- **Email elina.valeria96@yandex.ru**
-- **GitHub @leria7**
+### About Me
+I am 25 years old, I am interested in design and programming. Passed several courses on the basics of programming and layout in HTML, CSS. I find this is quite interesting. My main goal is to get more knowledge about front-end development, to gain the required experience and knowledge base for employment in IT companies. I always responsible and punctual to new requirements. 
 
-####Job Objective
-Увлекаюсь программированием и хочу работать как Java Developer.Обладаю аналитическим мышлением, быстро обучаюсь. Ответствена, взвешенно принимаю решения. В работе нацелена на достижение результата.
+### Skills
+* HTML,CSS
+* Git/GitHub
+* Adobe Photophop, Illustrator
+* Figma
 
+### Education
+* Belgorod State University named after V.G.Shukhov
+   * Architect
+* Сourses:
+   * HTML/CSS
+   * CS50 lectures
 
-####Education
-Belgorod State University named after V.G.Shukhov. Graduate as an architect, 2019.
+### Language
+English level - A2
 
-
-####Computing Skills
-MS Windows (3.11, 95, 98, XP), MS Word (6.0, 7.0, 97), MS PowerPoint, MS Excel, Internet (all popular browsers ), skills of handing multimedia files, HTML/CSS.
-
-
-####Extracurricular Activities
-Languages:English — Pre-Intermediate
-Tennis, alpine skiing, reading,  traveling.
+### Project
+Learning project - CV (https://leria7.github.io/rsschool-cv/cv)
